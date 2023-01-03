@@ -1,0 +1,123 @@
+ 
+.imagem {
+
+   
+        margin-left: 500px;
+        margin-top: 51px;
+
+}
+
+.imagem02 {
+
+    position: absolute;
+    width: 309px;
+    height: 500;
+    left:  392px;
+    top: 243px;
+}
+
+
+textarea{
+    padding-block: 40px;
+    margin-inline-start: 313px;
+    width: 401px;
+    height: 25px;
+    margin-top: 144px;
+    font-size: 23px;
+    font-family: 'Prosto One', cursive;
+}
+
+
+.input {
+
+    /* Digite seu texto */
+
+
+    position: absolute;
+    width: 498px;
+    height: 64px;
+    left: 266px;
+    top: 168px;
+
+    font-family: 'Prosto One', cursive; 
+    font-weight: 400px;
+    font-size: 32px;
+    line-height: 150%;
+/* identical to box height, or 48px */
+
+
+/* Dark blue/dark-blue-300 */
+
+color: #0A3871;
+}
+
+.input2 {
+
+    margin-top: -357px;
+}
+.texto {
+
+    margin-left: 272px;
+    margin-top: 369px;    
+}
+
+.texto2 {
+
+    margin-left: 18px;
+    margin-top: -17px;
+    font-family: 'Prosto One', cursive;
+    color: #0A3871;
+}
+
+.button {
+
+    position: absolute;
+    left: 274px;
+    top: 507px;
+}
+
+.btn-1: houve {
+
+    background: darkorange;
+	transform: scale(1.2);
+
+
+}
+
+
+.btn-1{
+
+        background-color: var(--corazul);
+        border: solid 1px;
+        border-radius: 5px;
+        padding: 10px 20px;
+        font-size: 19px;
+        font-weight:initial;
+        text-transform: lowercase;
+
+}
+ 
+.btn-2{
+
+    background-color: var(--corazul);
+    border: solid 1px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 19px;
+    font-weight:initial;
+    text-transform: lowercase;
+
+}
+.btn-3{
+
+    background-color: var(--corazul);
+    border: solid 1px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 19px;
+    font-weight:initial;
+    text-transform: lowercase;
+
+}
+
+

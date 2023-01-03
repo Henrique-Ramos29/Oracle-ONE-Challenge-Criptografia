@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Prosto+One&display=swap" rel="stylesheet">
+    <title>Codificador</title>
+</head>
+<body>
+ <header>
+    <img class="imagem" src="imagem/logo.png" alt = "Logo marca">
+ </header>
+   <main>    
+
+    <section>
+
+     
+      <input class="input" id="input-texto" type="text" cols="30" rows="10" placeholder = "digite aqui">
+     <div class="texto">
+      <img src="imagem/interogacao.png">
+      <h6 class="texto2">Apenas letra minúscula</h6>
+     </div>
+     <div class="button">
+        <!-- botão 1 -->
+        <button class="btn-1" onclick="btnEncritar()" id="criptografar.btn">Criptografar</button>
+        <!-- botão 2  -->
+        <button class="btn-2" onclick="btnDesencriptar()" id="descriptografar.btn">Descriptografar</button>
+        <!-- botão 3  -->
+        <button class="btn-3" onclick="copiar()"> Copiar resultado</button>
+        <!-- botão 4  -->
+        <!-- <button class="btn-4" onclick="apagar()">Apagar codificações</button> -->
+        <!-- botão 5  -->
+    
+    </div>
+    </section>
+
+
+    <div class="input2" id="outInput">
+
+        <img class="imagem02" src="imagem/imagem.png" alt = Decodificador">
+        
+    </div>
+    
+
+
+  </main>
+
+<script src="java.js"></script>
+</body>
+</html>
