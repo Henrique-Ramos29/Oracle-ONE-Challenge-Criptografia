@@ -7,12 +7,18 @@
 
 }
 
+body {
+
+    margin-left: 183px
+
+}
+
 .imagem02 {
 
     position: absolute;
     width: 309px;
     height: 500;
-    left:  392px;
+    left:  530px;
     top: 243px;
 }
 
@@ -36,7 +42,7 @@ textarea{
     position: absolute;
     width: 498px;
     height: 64px;
-    left: 266px;
+    left: 450px;
     top: 168px;
 
     font-family: 'Prosto One', cursive; 
@@ -72,7 +78,7 @@ color: #0A3871;
 .button {
 
     position: absolute;
-    left: 274px;
+    left: 455px;
     top: 507px;
 }
 
